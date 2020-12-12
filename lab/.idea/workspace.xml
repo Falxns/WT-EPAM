@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4845099b-b6b0-4919-a2a0-8a589d98348c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lab_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/ConnectExcept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/ConnectPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/DaoExcept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/PaymentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/PublicationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/SubscriptionDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/entity/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/entity/EntityPayment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/entity/EntityPublication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/entity/EntityRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/entity/EntitySubscription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/entity/EntityUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/filter/Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/services/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/services/ServiceExcept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/text.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/text_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/classes/text_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/add-publ.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/auth.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/details.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/payment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/log4j-api-2.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/log4j-core-2.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/tags/header.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/text.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/text_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/lab_Web_exploded/text_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ConnectExcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ConnectPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/Criteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoExcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/PublicationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/SubscriptionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/EntityPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/EntityPublication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/EntityRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/EntitySubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/EntityUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filter/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/ServiceExcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/text.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/text_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/text_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/add-publ.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/auth.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/details.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/payment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-api-2.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-core-2.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/tags/header.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1lVE0QLEKj5w492HeXvCMXRYlCj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/protobuf-java-3.6.1.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17462039" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.40" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/lab_Web_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lab:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/lab_Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="6fe7a47f-2637-4a06-833a-751310443cb2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55728" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lab:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4845099b-b6b0-4919-a2a0-8a589d98348c" name="Default Changelist" comment="" />
+      <created>1607673635827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607673635827</updated>
+      <workItem from="1607673636903" duration="39027000" />
+      <workItem from="1607763421644" duration="10459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
